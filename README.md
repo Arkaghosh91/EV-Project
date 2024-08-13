@@ -1,6 +1,8 @@
 # EV-Population study Project
-## Overview : This project aims to analyze the adoption and distribution of electric vehicles across various regions. By examining factors such as electric vehicle type, range, and geographic distribution, the project seeks to provide insights into the current state of EV adoption. It will also explore the correlation between EV adoption and factors like legislative districts, utility providers, and geographic regions.
-### Objective : The primary objective of this project is to analyze and visualize the distribution and characteristics of electric vehicles in different regions. The analysis will focus on:
+## Overview  
+This project aims to analyze the adoption and distribution of electric vehicles across various regions. By examining factors such as electric vehicle type, range, and geographic distribution, the project seeks to provide insights into the current state of EV adoption. It will also explore the correlation between EV adoption and factors like legislative districts, utility providers, and geographic regions.
+### Objective  
+The primary objective of this project is to analyze and visualize the distribution and characteristics of electric vehicles in different regions. The analysis will focus on:
 
 1. Identifying trends in EV adoption by make, model, and type.
 2. Exploring the geographic distribution of EVs and their correlation with regional factors like legislative districts and utility providers.
@@ -8,8 +10,10 @@
 4. Providing data-driven insights to support the expansion and adoption of electric vehicles.
 This analysis will serve as a valuable resource for stakeholders, including policymakers, utility companies, and automotive manufacturers, to understand the landscape of electric vehicle adoption and plan future strategies accordingly.
 
-### Tools used : MS EXCEL VERSION 2016 , TABLEAU PUBLIC 2024.2.1.
-#### Conclusion : This project provides an in-depth analysis of the electric vehicle (EV) population, focusing on various aspects such as vehicle types, manufacturers, model years, and geographic distribution. The data reveals several key trends:
+### Tools used 
+MS EXCEL VERSION 2016 , TABLEAU PUBLIC 2024.2.1.
+### Conclusion 
+This project provides an in-depth analysis of the electric vehicle (EV) population, focusing on various aspects such as vehicle types, manufacturers, model years, and geographic distribution. The data reveals several key trends:
 
 1. Dominance of BEVs: Battery Electric Vehicles (BEVs) are the most prevalent type of EV, indicating a strong preference for fully electric vehicles over plug-in hybrids.
 
